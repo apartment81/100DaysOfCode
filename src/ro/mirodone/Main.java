@@ -8,8 +8,5 @@ public class Main {
         NextSquare nextSquare = new NextSquare();
         double sqrt = nextSquare.findNextSquare(9);
         System.out.println(sqrt);
-
     }
-
-
 }
